@@ -1,18 +1,18 @@
 # Hi, I'm Anita 👋
 
-🎓 MCA Graduate (2025)  
-💻 Java Full Stack Developer Intern  
-🚀 Aspiring Software Developer  
-📍 India  
+ - MCA Graduate (2025)  
+ - Java Full Stack Developer Intern  
+ - Aspiring Software Developer  
+ - India  
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I am an MCA graduate currently pursuing an internship in Java Full Stack Development. I am passionate about building web applications and continuously improving my programming and problem-solving skills. I am seeking opportunities to start my career as a Java Full Stack Developer.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Backend
 - Java
@@ -39,7 +39,7 @@ I am an MCA graduate currently pursuing an internship in Java Full Stack Develop
 
 ---
 
-## 📌 Projects
+##  Projects
 ### Employee Attendance Management System
 - Developed web-based attendance tracking system.
 - Technologies: Python, Django, SQL.
@@ -52,17 +52,16 @@ I am an MCA graduate currently pursuing an internship in Java Full Stack Develop
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced Spring Boot
 - REST API development
 - Full Stack application deployment
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: (Add LinkedIn URL)
-- Email: (Add email)
+## Contact Me
+- LinkedIn: (www.linkedin.com/in/anita-g-3a0a40308)
+- Email: (anitagireppa8867@gmail.com)
 
 ---
-
-⭐ Always learning and building new projects!
+ Always learning and building new projects!
