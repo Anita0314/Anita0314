@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Anita 👋
 
-<!--
-**Anita0314/Anita0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate (2025)  
+💻 Java Full Stack Developer Intern  
+🚀 Aspiring Software Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am an MCA graduate currently pursuing an internship in Java Full Stack Development. I am passionate about building web applications and continuously improving my programming and problem-solving skills. I am seeking opportunities to start my career as a Java Full Stack Developer.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+- Java
+- Spring Boot
+- JDBC
+- Hibernate
+- REST APIs
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Basic React (if learning)
+
+### Database
+- MySQL
+- Oracle SQL
+
+### Tools & Platforms
+- Git & GitHub
+- Eclipse / IntelliJ IDEA
+- VS Code
+- Postman
+
+---
+
+## 📌 Projects
+### Employee Attendance Management System
+- Developed web-based attendance tracking system.
+- Technologies: Python, Django, SQL.
+
+### Student Management System
+- CRUD operations for managing student data.
+- Technologies: Java, MySQL.
+
+*(Add more projects as you build them.)*
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- REST API development
+- Full Stack application deployment
+
+---
+
+## 📫 Contact Me
+- LinkedIn: (Add LinkedIn URL)
+- Email: (Add email)
+
+---
+
+⭐ Always learning and building new projects!
